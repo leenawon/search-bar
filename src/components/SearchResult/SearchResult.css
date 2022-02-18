@@ -1,0 +1,25 @@
+.search-result {
+  width: 330px;
+  height: 230px;
+  margin-top: 5px;
+  background-color: #fff;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.35);
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.search-result::-webkit-scrollbar {
+  display: none;
+}
+
+.search-result li {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 13.5px 15px;
+  cursor: pointer;
+}
+
+.search-result li:hover {
+  background-color: #d3d3d3;
+}
