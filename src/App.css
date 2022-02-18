@@ -1,0 +1,17 @@
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #c6ffdd;
+  background: -webkit-linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+  background: linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+}
+
+.app .title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 100px;
+  color: #fff;
+}
