@@ -1,0 +1,33 @@
+.search-bar {
+  padding: 50px;
+}
+
+.search-input-wrapper {
+  margin-top: 50px;
+  display: flex;
+}
+
+.search-input-wrapper input {
+  font-size: 18px;
+  background-color: #fff;
+  padding: 15px;
+  height: 30px;
+  width: 300px;
+}
+
+.search-input-wrapper input:focus {
+  outline: #fff;
+}
+
+.search-icon {
+  height: 60px;
+  width: 50px;
+  background-color: #fff;
+  display: grid;
+  place-items: center;
+  cursor: pointer;
+}
+
+.search-icon svg {
+  font-size: 35px;
+}
