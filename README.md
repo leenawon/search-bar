@@ -1,6 +1,6 @@
 ## Search Bar
 
-배포 주소 : https://search-bar-practice.netlify.app/
+### 배포 주소 : https://search-bar-practice.netlify.app/
 
 ### 설치 및 실행
 
